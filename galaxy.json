@@ -1,6 +1,11 @@
 {
-	"title": "Hello World",
-	"Description": "Hello World in the Dero'sblockchain",
-	"version": "1.0.0",
-	"file": "hello_world.bas"
+	"smarts_contracts": [
+		{
+			"title": "Hello World",
+			"Description": "Hello World the the Dero's blockchain",
+			"version": "1.0.0",
+			"file": "hello_world.bas"
+
+		}
+	]
 }
