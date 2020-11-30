@@ -1,0 +1,5 @@
+[[sc]]
+title = 'My awesome smart contract'
+description = 'A short description'
+file = 'hello_world.bas'
+version = '1.2.3'
