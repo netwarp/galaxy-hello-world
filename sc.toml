@@ -3,3 +3,9 @@ title = 'My awesome smart contract'
 description = 'A short description'
 file = 'hello_world.bas'
 version = '1.2.3'
+
+[[sc]]
+title = 'Second smart contract'
+description = 'Second short description'
+file = 'folder/hello2.bas'
+version = '2.3.4'
